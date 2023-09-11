@@ -1,0 +1,7 @@
+print('=-'*10+'Analisador de Textos'+'-='*10)
+nome = input('Nome completo: ').strip()
+print('Nome com letras maiúsculas: {}'.format(nome.upper()))
+print('Nome com letras minúsuculas: {}'.format(nome.lower()))
+print('Quant. de letras: {}'.format((len(nome) - nome.count(' '))))
+print('Quant. de letras no 1º nome: {}'.format(nome.find(' ')))
+# print('Quant. de letras no 1º nome: {}'.format(len(nome.split[0]))

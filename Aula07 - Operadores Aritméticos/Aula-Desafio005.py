@@ -1,0 +1,5 @@
+print('=-'*10+'Antecessor e Sucessor'+'-='*10)
+n1 = int(input('Digite um número: '))
+print(f'Sucessor: {n1+1}',end=' '*5)
+print(f'Antecessor: {n1-1}')
+print(f'{n1-1} < {n1} < {n1+1}')

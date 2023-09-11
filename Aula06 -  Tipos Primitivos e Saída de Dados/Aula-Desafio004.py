@@ -1,0 +1,10 @@
+coisa = input('Digite algo: ')
+print(f'Alfanúmerico: {coisa.isalnum()}')
+print(f'Alfabético: {coisa.isalpha()}')
+print(f'Letras minúsculas: {coisa.islower()}')
+print(f'Decimal: {coisa.isdecimal()}')
+print(f'Número: {coisa.isnumeric()}')
+print(f'Espaço: {coisa.isspace()}')
+print(f'Letra inicial em maiúsculo: {coisa.istitle()}')
+print(f'Letras em maiúsculas: {coisa.isupper()}')
+
