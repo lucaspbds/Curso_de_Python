@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abcd4f79-8987-4a8d-acaf-cd1fcb856a19" name="Changes" comment="" />
+    <list default="true" id="abcd4f79-8987-4a8d-acaf-cd1fcb856a19" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Aula20 - Funcoes/desafio096.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula20 - Funcoes/tests/test01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula20 - Funcoes/tests/test02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula20 - Funcoes/tests/test03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula20 - Funcoes/tests/test04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula17 - Listas/Desafio78.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula17 - Listas/Desafio79.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +37,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2ZdTMollBLWs7gXy2cxUsBnqX1I" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -45,6 +57,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula20 - Funcoes\tests" />
       <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula19 - Dicionários" />
     </key>
   </component>
