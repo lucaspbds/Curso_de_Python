@@ -5,18 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abcd4f79-8987-4a8d-acaf-cd1fcb856a19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Aula20 - Funcoes/desafio096.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula20 - Funcoes/desafio097.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula20 - Funcoes/desafio098.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula20 - Funcoes/desafio099.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula20 - Funcoes/desafio100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula20 - Funcoes/tests/test01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula20 - Funcoes/tests/test02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula20 - Funcoes/tests/test03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula20 - Funcoes/tests/test04.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula17 - Listas/Desafio78.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula17 - Listas/Desafio79.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/desafio096.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20 - Funcoes/Parte01/desafio096.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/desafio097.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20 - Funcoes/Parte01/desafio097.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/desafio098.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20 - Funcoes/Parte01/desafio098.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/desafio099.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20 - Funcoes/Parte01/desafio099.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/desafio100.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20 - Funcoes/Parte01/desafio100.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/tests/test01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20 - Funcoes/Parte01/tests/test01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/tests/test02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20 - Funcoes/Parte01/tests/test02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/tests/test03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20 - Funcoes/Parte01/tests/test03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/tests/test04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20 - Funcoes/Parte01/tests/test04.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +59,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula20 - Funcoes\Parte01" />
+      <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula20 - Funcoes\Parte01\tests" />
       <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula20 - Funcoes\tests" />
       <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula19 - Dicionários" />
     </key>
