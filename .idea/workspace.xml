@@ -6,29 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="abcd4f79-8987-4a8d-acaf-cd1fcb856a19" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/Parte01/desafio096.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20_21 - Funcoes/Parte01/desafio096.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/Parte01/desafio097.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20_21 - Funcoes/Parte01/desafio097.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/Parte01/desafio098.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20_21 - Funcoes/Parte01/desafio098.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/Parte01/desafio099.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20_21 - Funcoes/Parte01/desafio099.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/Parte01/desafio100.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20_21 - Funcoes/Parte01/desafio100.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/Parte01/tests/test01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20_21 - Funcoes/Parte01/tests/test01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/Parte01/tests/test02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20_21 - Funcoes/Parte01/tests/test02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/Parte01/tests/test03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20_21 - Funcoes/Parte01/tests/test03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/Parte01/tests/test04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20_21 - Funcoes/Parte01/tests/test04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/Parte02/desafio101.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20_21 - Funcoes/Parte02/desafio101.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/Parte02/desafio102.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20_21 - Funcoes/Parte02/desafio102.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/Parte02/desafio103.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20_21 - Funcoes/Parte02/desafio103.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/Parte02/desafio104.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20_21 - Funcoes/Parte02/desafio104.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/Parte02/desafio105.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20_21 - Funcoes/Parte02/desafio105.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/Parte02/desafio106.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20_21 - Funcoes/Parte02/desafio106.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/Parte02/tests/test01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20_21 - Funcoes/Parte02/tests/test01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/Parte02/tests/test02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20_21 - Funcoes/Parte02/tests/test02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/Parte02/tests/test03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20_21 - Funcoes/Parte02/tests/test03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/Parte02/tests/test04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20_21 - Funcoes/Parte02/tests/test04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/Parte02/tests/test05.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20_21 - Funcoes/Parte02/tests/test05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/Parte02/tests/test06.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20_21 - Funcoes/Parte02/tests/test06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/Parte02/tests/test07.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20_21 - Funcoes/Parte02/tests/test07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula20 - Funcoes/Parte02/tests/test08.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20_21 - Funcoes/Parte02/tests/test08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula22 - Módulos e Pacotes/desafio109/desafio109.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula22 - Módulos e Pacotes/desafio109/desafio109.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula22 - Módulos e Pacotes/desafio109/moeda.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula22 - Módulos e Pacotes/desafio109/moeda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula22 - Módulos e Pacotes/desafio110/desafio110.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula22 - Módulos e Pacotes/desafio110/desafio110.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula22 - Módulos e Pacotes/desafio112/utilidadesCeV/dado/__init__.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,23 +49,23 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Fernanda/Desktop/Programação/Python/Curso_de_Python/Aula22 - Módulos e Pacotes"
+    "last_opened_file_path": "C:/Users/Fernanda/Desktop/Programação/Python/Curso_de_Python/Aula22 - Módulos e Pacotes/desafio111"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula22 - Módulos e Pacotes\desafio111" />
+      <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula22 - Módulos e Pacotes\desafio112\asd" />
       <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula22 - Módulos e Pacotes" />
       <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula22 - Módulos e Pacotes\desafio111\utilidadesCeV" />
-      <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula22 - Módulos e Pacotes\desafio111" />
       <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula22 - Módulos e Pacotes\desafio110" />
-      <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula22 - Módulos e Pacotes\desafio109" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula22 - Módulos e Pacotes\desafio112" />
+      <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula22 - Módulos e Pacotes\desafio112\utilidadesCeV" />
+      <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula22 - Módulos e Pacotes\desafio112\asd" />
       <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula22 - Módulos e Pacotes\desafio109" />
       <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula22 - Módulos e Pacotes\desafio108" />
-      <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula22 - Módulos e Pacotes\desafio107" />
-      <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula20 - Funcoes\Parte01" />
-      <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula20 - Funcoes\Parte01\tests" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

@@ -2,4 +2,4 @@
 from moeda import *
 
 preco = float(input('Digite o preço do produto: R$').replace(',', '.').strip())
-resumo(preco, 80, 35)
+resumo(preco, 20, 0.0001)
