@@ -13,19 +13,22 @@ def listarCadastros():
             else:
                 print(f'{dados[0]:<50}{dados[1]} anos')
         file.close()
-    except:
+    except FileNotFoundError:
         print('\033[1;31mNÃO HÁ CADASTROS NO MOMENTO!\033[m')
-
 
 
 def cadastrarPessoa():
     nome = input('Nome: ').strip().title()
     idade = input('Idade: ').strip()
     pessoa = tratamentoDeDados(nome, idade)
-    file = open('bd', 'at')
-    file.write(f'{pessoa},')
-    file.close()
-    print(f'<{pessoa[0]}> \033[32mcadastrado(a) com sucesso!\033[m')
+    try:
+        file = open('bd', 'at')
+        file.write(f'{pessoa},')
+        file.close()
+    except FileNotFoundError:
+        print('\033[31mErro ao tentar cadastrar o usuário!\033[m')
+    else:
+        print(f'<{pessoa[0]}> \033[32mcadastrado(a) com sucesso!\033[m')
 
 
 def tratamentoDeDados(nome, idade):
@@ -38,6 +41,3 @@ def tratamentoDeDados(nome, idade):
         else:
             print(f'\033[31mErro: valor inválido na idade ({idade}).\033[m')
             idade = input('Idade: ').strip()
-
-
-
