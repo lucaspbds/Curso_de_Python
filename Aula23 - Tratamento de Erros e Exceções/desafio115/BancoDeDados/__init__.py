@@ -3,7 +3,7 @@ import ast
 
 def listarCadastros():
     try:
-        file = open('bd.txt', 'r')
+        file = open('bd', 'rt')
         file.seek(0)
         dado = file.readlines()[0]
         bd = ast.literal_eval(dado)
@@ -22,7 +22,7 @@ def cadastrarPessoa():
     nome = input('Nome: ').strip().title()
     idade = input('Idade: ').strip()
     pessoa = tratamentoDeDados(nome, idade)
-    file = open('bd.txt', 'a')
+    file = open('bd', 'at')
     file.write(f'{pessoa},')
     file.close()
     print(f'<{pessoa[0]}> \033[32mcadastrado(a) com sucesso!\033[m')
