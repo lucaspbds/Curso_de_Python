@@ -9,9 +9,9 @@ def listarCadastros():
         bd = ast.literal_eval(dado)
         for dados in bd:
             if dados[1] == '1':
-                print(f'{dados[0]:<50}{dados[1]} ano')
+                print(f'{dados[0]:<50}{dados[1]:>3} ano')
             else:
-                print(f'{dados[0]:<50}{dados[1]} anos')
+                print(f'{dados[0]:<50}{dados[1]:>3} anos')
         file.close()
     except FileNotFoundError:
         print('\033[1;31mNÃO HÁ CADASTROS NO MOMENTO!\033[m')
