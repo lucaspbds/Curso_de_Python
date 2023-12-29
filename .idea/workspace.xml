@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="abcd4f79-8987-4a8d-acaf-cd1fcb856a19" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula22 - Módulos e Pacotes/desafio109/desafio109.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula22 - Módulos e Pacotes/desafio109/desafio109.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula22 - Módulos e Pacotes/desafio109/moeda.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula22 - Módulos e Pacotes/desafio109/moeda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula22 - Módulos e Pacotes/desafio110/desafio110.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula22 - Módulos e Pacotes/desafio110/desafio110.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula22 - Módulos e Pacotes/desafio112/utilidadesCeV/dado/__init__.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +41,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Fernanda/Desktop/Programação/Python/Curso_de_Python/Aula22 - Módulos e Pacotes/desafio111"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Fernanda/Desktop/Programação/Python/Curso_de_Python/Aula22 - Módulos e Pacotes/desafio111&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula22 - Módulos e Pacotes\desafio111" />
@@ -61,11 +57,11 @@
       <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula22 - Módulos e Pacotes\desafio110" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula23 - Tratamento de Erros e Exceções\desafio115\BancoDeDados" />
+      <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula23 - Tratamento de Erros e Exceções\desafio113" />
       <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula22 - Módulos e Pacotes\desafio112" />
       <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula22 - Módulos e Pacotes\desafio112\utilidadesCeV" />
       <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula22 - Módulos e Pacotes\desafio112\asd" />
-      <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula22 - Módulos e Pacotes\desafio109" />
-      <recent name="C:\Users\Fernanda\Desktop\Programação\Python\Curso_de_Python\Aula22 - Módulos e Pacotes\desafio108" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
