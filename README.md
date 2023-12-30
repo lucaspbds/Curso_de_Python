@@ -1,3 +1,4 @@
 # Curso_de_Python
-Esses arquivos contém todos os exercícios de programação que foram abordados no Curso de Python, do  Gustavo Guanabara. 
-OBS: Está incompleto.
+Repertório onde contém todos os exercícios que eu fiz durante o curso de Python da plataforma Curso Em Vídeo do Gustavo Guanabara.
+Início: 23/12/2022
+Fim: 29/12/2023
